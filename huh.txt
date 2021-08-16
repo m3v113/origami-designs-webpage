@@ -1,7 +1,0 @@
-<h1 style = "color: red">O...D</h1>
-                <h1 style = "color: orange">r.....e</h1>
-                <h1 style = "color: yellow">i......s</h1>
-                <h1 style = "color: green">g.....i</h1>
-                <h1 style = "color: blue">a.....g</h1>
-                <h1 style = "color: purple">m...n</h1>
-                <h1 style = "color: rgb(177, 56, 76)">i......s</h1>
