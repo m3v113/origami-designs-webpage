@@ -1,0 +1,67 @@
+h3{
+    color: #ffa500
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: #000000;
+    padding: 15px;
+}
+
+.titletitle{
+    font-size: 20px;
+}
+
+.bodyimg{
+    background-image: url("https://images.unsplash.com/photo-1570284613060-766c33850e00?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZGFyayUyMGJsdWV8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80");
+    color: #ffffff;
+}
+
+body{
+    margin: 0px;
+    background-color: #add8e6;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 50px;
+    padding: 50px;
+}
+
+.grid img{
+    border: 2px solid #000000;
+    border-radius: 50px;
+}
+
+.origami{
+    border: 25px;
+    border-radius: 5px;
+    width: 310px;
+}
+
+.heading{
+    background-color: #1e1f52;
+    color: #ffffff;
+    padding: 20px;
+    padding-left: 70px;
+}
+
+.img{
+    padding: 50px;
+    padding-left: 500px;
+}
+
+.caption{
+    margin-left: 250px;
+}
+
+.about{
+    margin-left: 500px;
+}
+
+.aboutclass{
+    margin-left: 500px;
+}
